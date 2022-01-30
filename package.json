@@ -1,6 +1,9 @@
 {
   "name": "cse341",
   "version": "1.0.0",
+  "engines": {
+    "node": "v14.16.1"
+  },
   "description": "complete node js guide",
   "main": "app.js",
   "scripts": {
